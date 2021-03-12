@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&display=swap');
+
+body{
+    background-color: #2a0b42;
+}
+
+h1{
+    font-family: 'Fascinate', cursive;
+    font-size: 100px;
+    padding: 10px;
+    display: block;
+    background-color: blue;
+}
+
+h1, h3,p{
+    color: white;
+}
+p{
+    font-family: 'Fascinate', cursive;
+    width: 200px;
+    margin-left: 20px;
+    display: block;
+}
+
+img{
+    height: 250px;
+    border-radius: 12%;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
